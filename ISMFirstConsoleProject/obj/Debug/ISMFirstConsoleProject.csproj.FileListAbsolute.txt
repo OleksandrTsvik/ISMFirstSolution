@@ -1,0 +1,6 @@
+D:\ISM\TASK №01\ISMFirstConsoleProject\ISMFirstConsoleProject\bin\Debug\ISMFirstConsoleProject.exe.config
+D:\ISM\TASK №01\ISMFirstConsoleProject\ISMFirstConsoleProject\bin\Debug\ISMFirstConsoleProject.exe
+D:\ISM\TASK №01\ISMFirstConsoleProject\ISMFirstConsoleProject\bin\Debug\ISMFirstConsoleProject.pdb
+D:\ISM\TASK №01\ISMFirstConsoleProject\ISMFirstConsoleProject\obj\Debug\ISMFirstConsoleProject.csproj.CoreCompileInputs.cache
+D:\ISM\TASK №01\ISMFirstConsoleProject\ISMFirstConsoleProject\obj\Debug\ISMFirstConsoleProject.exe
+D:\ISM\TASK №01\ISMFirstConsoleProject\ISMFirstConsoleProject\obj\Debug\ISMFirstConsoleProject.pdb
