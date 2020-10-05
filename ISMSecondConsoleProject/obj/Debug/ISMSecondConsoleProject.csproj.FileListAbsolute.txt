@@ -1,0 +1,7 @@
+D:\ISM\TASK №01\ISMFirstConsoleProject\ISMSecondConsoleProject\bin\Debug\ISMSecondConsoleProject.exe.config
+D:\ISM\TASK №01\ISMFirstConsoleProject\ISMSecondConsoleProject\bin\Debug\ISMSecondConsoleProject.exe
+D:\ISM\TASK №01\ISMFirstConsoleProject\ISMSecondConsoleProject\bin\Debug\ISMSecondConsoleProject.pdb
+D:\ISM\TASK №01\ISMFirstConsoleProject\ISMSecondConsoleProject\obj\Debug\ISMSecondConsoleProject.csprojAssemblyReference.cache
+D:\ISM\TASK №01\ISMFirstConsoleProject\ISMSecondConsoleProject\obj\Debug\ISMSecondConsoleProject.csproj.CoreCompileInputs.cache
+D:\ISM\TASK №01\ISMFirstConsoleProject\ISMSecondConsoleProject\obj\Debug\ISMSecondConsoleProject.exe
+D:\ISM\TASK №01\ISMFirstConsoleProject\ISMSecondConsoleProject\obj\Debug\ISMSecondConsoleProject.pdb
